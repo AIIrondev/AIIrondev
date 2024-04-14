@@ -15,7 +15,7 @@
 ## Organisations
 
 - [@PaRaMeRoS](https://github.com/PaRaMeRoS)
-- [@Spike-Prime-Pro](https://github.com/Spike-Prime-Pro)
+- [@Spike-Prime-Pro](https://github.com/Ekips-Prime-Pro)
 
 ## Tools that I use
 
