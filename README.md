@@ -12,6 +12,11 @@
 - 🌱 I’m currently learning artificial neural networks with ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - 🎧 I'm lissening to Rock ,Mettal and Techno on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
+## Organisations
+
+- [@PaRaMeRoS](https://github.com/PaRaMeRoS)
+- [@Spike-Prime-Pro](https://github.com/Spike-Prime-Pro)
+
 ## Tools that I use
 
 ### Editors
