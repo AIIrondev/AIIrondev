@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @AIIrondev.
 - 👀 I’m interested in Programming Python and playing some stategic games on ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 - 🌱 I’m currently learning artificial neural networks with ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- 🎧 I'm lissening to Rock ,Mettal and Techno on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+- 🎧 I'm lissening to Rock , Metal and Techno on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ## Organisations
 
@@ -59,4 +59,16 @@
   </a>
 </p>
 
+### Cabug-folder-sorter
 
+<p>
+  <a>
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AIIrondev/Cabug-folder-sorter/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
+  </a>
+  <a>
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/AIIrondev/Cabug-folder-sorter?logo=GitHub&style=for-the-badge">
+  </a>
+  <a>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Aiirondev/Cabug-folder-sorter?style=for-the-badge&logo=python">
+  </a>
+</p>
