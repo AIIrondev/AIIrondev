@@ -48,10 +48,10 @@
 ### Cabug-folder-sorter
 
 <p>
-  <a>
+  <a href="https://github.com/AIIrondev/Cabug-Folder-Sorter/releases/">
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AIIrondev/Cabug-folder-sorter/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
   </a>
-  <a>
+  <a href="https://github.com/AIIrondev/Cabug-Folder-Sorter/commits">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/AIIrondev/Cabug-folder-sorter?logo=GitHub&style=for-the-badge">
   </a>
   <a>
@@ -59,16 +59,16 @@
   </a>
 </p>
 
-### Cabug-folder-sorter
+### schere_stein_papier
 
 <p>
-  <a>
-    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AIIrondev/Cabug-folder-sorter/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
+  <a href="https://github.com/AIIrondev/schere_stein_papier/releases/">
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AIIrondev/schere_stein_papier/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
+  </a>
+  <a href="https://github.com/AIIrondev/schere_stein_papier/commits">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/AIIrondev/schere_stein_papier?logo=GitHub&style=for-the-badge">
   </a>
   <a>
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/AIIrondev/Cabug-folder-sorter?logo=GitHub&style=for-the-badge">
-  </a>
-  <a>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Aiirondev/Cabug-folder-sorter?style=for-the-badge&logo=python">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Aiirondev/schere_stein_papier?style=for-the-badge&logo=python">
   </a>
 </p>
