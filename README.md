@@ -72,3 +72,17 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Aiirondev/schere_stein_papier?style=for-the-badge&logo=python">
   </a>
 </p>
+
+### Ekips-Prime-Pro-Language
+
+<p>
+  <a href="https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro-language/releases/">
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Ekips-Prime-Pro/Ekips-Prime-Pro-language/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
+  </a>
+  <a href="https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro-language/commits">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Ekips-Prime-Pro/Ekips-Prime-Pro-language?logo=GitHub&style=for-the-badge">
+  </a>
+  <a>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Ekips-Prime-Pro/Ekips-Prime-Pro-language?style=for-the-badge&logo=python">
+  </a>
+</p>
