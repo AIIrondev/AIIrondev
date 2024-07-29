@@ -85,4 +85,7 @@
   <a>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Ekips-Prime-Pro/Ekips-Prime-Pro-language?style=for-the-badge&logo=python">
   </a>
+  <a>
+  <a href="https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/0506c5d8-fdbc-457d-a889-1eec6a3429fd"><img src="https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/0506c5d8-fdbc-457d-a889-1eec6a3429fd.svg" alt="wakatime"></a>
+  </a>
 </p>
