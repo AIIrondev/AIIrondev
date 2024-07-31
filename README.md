@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @AIIrondev.
 - 👀 I’m interested in Programming Python and playing some stategic games on ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 - 🌱 I’m currently learning artificial neural networks with ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- 🎧 I'm lissening to Rock , Metal and Techno on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+- 🎧 I'm listening to Rock , Metal and Techno on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ## Organisations
 
