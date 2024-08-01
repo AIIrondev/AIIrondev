@@ -17,7 +17,7 @@
 - [@PaRaMeRoS](https://github.com/PaRaMeRoS)
 - [@Ekips-Prime-Pro](https://github.com/Ekips-Prime-Pro)
 
-## Tools that I use
+## Tools that I actively use
 
 ### Editors
 
