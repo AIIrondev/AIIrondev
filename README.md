@@ -5,6 +5,11 @@
   </a>
 </p>
 
+## GitHub Statistics
+
+![Overview](https://raw.githubusercontent.com/AIIrondev/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/AIIrondev/github-stats/master/generated/languages.svg)
+
 ## Personal Stuff
 
 - 👋 Hi, I’m @AIIrondev.
