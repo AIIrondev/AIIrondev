@@ -7,10 +7,12 @@
 
 ## GitHub Statistics
 
-![Overview](https://raw.githubusercontent.com/AIIrondev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Overview](https://raw.githubusercontent.com/AIIrondev/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![Languages](https://raw.githubusercontent.com/AIIrondev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Languages](https://raw.githubusercontent.com/AIIrondev/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/AIIrondev/github-stats">
+<img src="https://github.com/AIIrondev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/AIIrondev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/AIIrondev/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/aiirondev/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 ## Personal Stuff
 
