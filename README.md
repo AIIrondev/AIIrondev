@@ -1,98 +1,91 @@
-# Welcome to AIIrondev's profile!
-<p>
-  <a href="https://github.com/AIIrondev?tab=followers">
-    <img src="https://img.shields.io/github/followers/AIIrondev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
+# AIIrondev
 
-## GitHub Statistics
+[![GitHub Followers](https://img.shields.io/github/followers/AIIrondev?label=Follow&logo=github&style=flat-square)](https://github.com/AIIrondev?tab=followers)
 
-<a>
-<img src="https://github.com/AIIrondev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/AIIrondev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+## Statistics
 
-## Personal Stuff
+<div align="center">
+  <img src="https://github.com/AIIrondev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github.com/AIIrondev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Language Stats" />
+</div>
 
-- 👋 Hi, I’m @AIIrondev.
-- 👀 I’m interested in Programming Python and playing some stategic games on ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-- 🌱 I’m currently learning artificial neural networks with ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- 🎧 I'm listening to Rock , Metal and Techno on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+## About Me
 
-## Organisations
+- 👋 Hi, I'm @AIIrondev
+- 👀 Python programmer and strategy game enthusiast
+- 🌱 Currently exploring Web Development with Python
+
+## Organizations
 
 - [@PaRaMeRoS](https://github.com/PaRaMeRoS)
 - [@Ekips-Prime-Pro](https://github.com/Ekips-Prime-Pro)
 
-## Tools that I actively use
+## Tech Stack
 
-### Editors
+### Languages & Tools
 
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2b%2b&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=white)
 
-### Programming Languages
+### Python Libraries
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### Data Science & Machine Learning
 
-### libs for python
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+#### Visualization
 
-### Others
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### Web Development
 
-## Repositorys
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
-### Cabug-folder-sorter
+#### Scientific & Utility
 
-<p>
-  <a href="https://github.com/AIIrondev/Cabug-Folder-Sorter/releases/">
-    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AIIrondev/Cabug-folder-sorter/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
-  </a>
-  <a href="https://github.com/AIIrondev/Cabug-Folder-Sorter/commits">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/AIIrondev/Cabug-folder-sorter?logo=GitHub&style=for-the-badge">
-  </a>
-  <a>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Aiirondev/Cabug-folder-sorter?style=for-the-badge&logo=python">
-  </a>
-</p>
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23276DC3.svg?style=flat-square&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
-### schere_stein_papier
+## Featured Projects
 
-<p>
-  <a href="https://github.com/AIIrondev/schere_stein_papier/releases/">
-    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AIIrondev/schere_stein_papier/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
-  </a>
-  <a href="https://github.com/AIIrondev/schere_stein_papier/commits">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/AIIrondev/schere_stein_papier?logo=GitHub&style=for-the-badge">
-  </a>
-  <a>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Aiirondev/schere_stein_papier?style=for-the-badge&logo=python">
-  </a>
-</p>
+### [Inventory System](https://github.com/AIIrondev/Inventarsystem)
 
-### Ekips-Prime-Pro-Language
+An inventory system for efficient management with a Python backend, simple frontend, and a MongoDB database.
 
-<p>
-  <a href="https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro-language/releases/">
-    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Ekips-Prime-Pro/Ekips-Prime-Pro-language/total?label=GitHub Downloads&logo=GitHub&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro-language/commits">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Ekips-Prime-Pro/Ekips-Prime-Pro-language?logo=GitHub&style=for-the-badge">
-  </a>
-  <a>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Ekips-Prime-Pro/Ekips-Prime-Pro-language?style=for-the-badge&logo=python">
-  </a>
-  <a>
-  <a href="https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/0506c5d8-fdbc-457d-a889-1eec6a3429fd"><img src="https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/0506c5d8-fdbc-457d-a889-1eec6a3429fd.svg" alt="wakatime"></a>
-  </a>
-</p>
+**Libraries Used:**
+
+- Flask
+- Flask-PyMongo
+- PyMongo
+- Flask-WTF
+- WTForms
+
+[![Wakatime](https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/8a380b7f-389f-4a7e-8877-0fe9e1a4c243.svg)](https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/8a380b7f-389f-4a7e-8877-0fe9e1a4c243)
+
+### [Cabug Folder Sorter](https://github.com/AIIrondev/Cabug-Folder-Sorter)
+
+A Python-based file organization utility with various modes for everyday and advanced users.
+
+**Libraries Used:**
+
+- os
+- shutil
+- argparse
+
+### [Ekips Prime Pro Language](https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro-language)
+
+A custom programming language project for Spike Prime.
+
+[![Wakatime](https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/0506c5d8-fdbc-457d-a889-1eec6a3429fd.svg)](https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/0506c5d8-fdbc-457d-a889-1eec6a3429fd)
+
