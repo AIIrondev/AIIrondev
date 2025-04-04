@@ -15,6 +15,11 @@
 - 👀 Python programmer and strategy game enthusiast
 - 🌱 Currently exploring Web Development with Python
 
+For the most part I am programming in Python on Linux with VS Code. At the moment it is a change between Linux and Windows with a dual boot laptop.
+I have some expirience in programming Arduino and Raspberrypi's, if also took a look in Networking with mostly Cisco hardware and build some PCB's with my friend.
+The Project that I am currently working on is a Simulation of Ant behaivior.
+I have programmed a small AI's myself for the First Lego League as a part of a team. The AI was used to corect a Path of a robot for Batterie diferenzes etc. in cobination with a calibration of the right distance.
+
 ## Organizations
 
 - [@PaRaMeRoS](https://github.com/PaRaMeRoS)
