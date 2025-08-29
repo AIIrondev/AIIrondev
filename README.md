@@ -70,8 +70,16 @@ An inventory system for efficient management with a Python backend, simple front
 
 **Libraries Used:**
 
-- Flask
-- PyMongo
+- flask
+- werkzeug
+- gunicorn
+- pymongo==4.6.3
+- pillow
+- qrcode
+- apscheduler
+- python-dateutil
+- pytz
+- requests
 
 [![Wakatime](https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/8a380b7f-389f-4a7e-8877-0fe9e1a4c243.svg)](https://wakatime.com/badge/user/30b8509f-5e17-4d16-b6b8-3ca0f3f936d3/project/8a380b7f-389f-4a7e-8877-0fe9e1a4c243)
 
