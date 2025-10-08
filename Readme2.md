@@ -16,12 +16,10 @@ I have programmed a small AI's myself for the First Lego League as a part of a t
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github.com/AIIrondev/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats" />
-  <img src="https://github.com/AIIrondev/github-stats/blob/master/generated/languages.svg" alt="Language Stats" />
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=aiirondev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aiirondev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aiirondev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://github.com/AIIrondev/github-stats/blob/master/generated/languages.svg" alt="Language Stats" />
 
 ## 🏆 GitHub Trophies
