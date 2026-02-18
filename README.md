@@ -2,7 +2,7 @@
 I'm currently learning about Cybersecurity.<br>My favourit prgramming languages are Python, Rust and Risk V Asembly.<br>I'm currently working on an Inventory System.
 
 For the most part I am programming in Python on Linux with VS Code and nano. At the moment it is a change between Linux and Windows with a dual boot laptop.
-I have some expirience in programming Arduino and Raspberrypi's, if also took a look in Networking with mostly Cisco hardware and build some PCB's with my friend.
+I have some expirience in programming Arduino and Raspberrypi's, I've also took a look into Networking with mostly Cisco hardware and build some PCB's with my friend.
 The Project that I am currently working on is a Simulation of Ant behaivior.
 I have programmed a small AI's myself for the First Lego League as a part of a team. The AI was used to corect a Path of a robot for Batterie diferenzes etc. in cobination with a calibration of the right distance.
 
