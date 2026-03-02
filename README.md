@@ -20,9 +20,6 @@ I have programmed a small AI's myself for the First Lego League as a part of a t
 ![](https://nirzak-streak-stats.vercel.app/?user=aiirondev&theme=radical&hide_border=false)<br/>
 <img src="https://github.com/AIIrondev/github-stats/blob/master/generated/languages.svg" alt="Language Stats" /><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aiirondev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
